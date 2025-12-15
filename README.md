@@ -102,8 +102,13 @@ The application will open in your browser.
 
 Predictions are based on the input values provided through the web interface.
 
----
+### Output Demo Video
 
+A short demo video showing the working of the application (input fields and prediction results) is included below.
+
+![Application Demo](https://github.com/user-attachments/assets/663fc5d6-1545-4894-877b-93d41fdaceea)
+
+---
 ## Purpose of the Project
 
 This project was created during leisure time to practice:
