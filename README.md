@@ -106,7 +106,7 @@ Predictions are based on the input values provided through the web interface.
 
 A short demo video showing the working of the application (input fields and prediction results) is included below.
 
-![Application Demo](https://github.com/user-attachments/assets/663fc5d6-1545-4894-877b-93d41fdaceea)
+https://github.com/user-attachments/assets/663fc5d6-1545-4894-877b-93d41fdaceea
 
 ---
 ## Purpose of the Project
